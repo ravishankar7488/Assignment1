@@ -1,0 +1,17 @@
+Ans 1 ->Computers use binary to store data. Not only because it's a reliable way of storing the data, 
+        but computers only understand 1s and 0s — binary. A computer's main memory consists of transistors that
+        switch between high and low voltage levels.
+
+Ans 2 ->The full form of IDE is Integrated Development Environment.
+
+Ans 3 ->Text Editors provide features to write code in just simple way without any features.where code editor provide 
+        special type of features to write code.
+
+Ans 4 ->Processes to develop a software in c Language:-
+        1> Write a code in c language.
+        2>Run it on any code editor.
+        3>Make it's executable 
+
+Ans 5.a ->C17 is the current standard for the C programming language.Which is comes in june 2018.
+
+Ans 5.b ->Dennis Ritchie Is the developer of C Language.
